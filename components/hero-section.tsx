@@ -163,15 +163,15 @@ export function HeroSection() {
             transition={{ duration: 0.6, delay: 0.8 }}
           >
             <div className="flex flex-col items-center">
-              <div className="text-4xl font-bold mb-1 text-white">5+</div>
+              <div className="text-4xl font-bold mb-1 text-white">3+</div>
               <div className="text-sm text-white">Years Experience</div>
             </div>
             <div className="flex flex-col items-center">
-              <div className="text-4xl font-bold mb-1 text-white">100+</div>
+              <div className="text-4xl font-bold mb-1 text-white">99+</div>
               <div className="text-sm text-white">Projects Completed</div>
             </div>
             <div className="flex flex-col items-center">
-              <div className="text-4xl font-bold mb-1 text-white">40+</div>
+              <div className="text-4xl font-bold mb-1 text-white">20+</div>
               <div className="text-sm text-white">Happy Clients</div>
             </div>
             <div className="flex flex-col items-center">
