@@ -34,8 +34,8 @@ const services = [
     icon: Video,
   },
   {
-    title: "3D Visualization",
-    description: "Creating realistic 3D models and environments for products and spaces.",
+    title: "Framer Designer",
+    description: "Creating realistic framer designs and environments for products and spaces.",
     icon: Cube,
   },
   {

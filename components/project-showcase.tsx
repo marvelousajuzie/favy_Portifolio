@@ -21,6 +21,18 @@ const projects = [
   },
   {
     id: 2,
+    title: "Music landing Page",
+    description: "Complete Ui/Ux Design and digital experience for a music platform",
+    category: "UI/UX",
+    image: "/music_landingpage.jpg",
+    color: "from-indigo-500/20 to-blue-500/20",
+    client: "music",
+    year: "2024",
+    tags: ["music", "Web Design", "UI/UX"],
+    figmaUrl: "https://www.figma.com/design/2EcCOH5NNSnQH7SobMNghh/Untitled?node-id=0-1&t=Ks0U5MuCxIXIfwTX-1",
+  },
+  {
+    id: 3,
     title: "Aleris AI",
     description: "Complete Ui/Ux Design and digital experience for an AI Company",
     category: "ui/ux",
@@ -28,16 +40,7 @@ const projects = [
     color: "from-blue-500/20 to-cyan-500/20",
     figmaUrl: "https://www.figma.com/design/eCQ0Ri7YVDifajAcrxW6hn/Untitled?node-id=0-1&p=f&t=gk6ZldIcrezaZagf-0",
   },
-  {
-    id: 3,
-    title: " Funiture Mobile App ",
-    description: "User-centered interface design for a funiture application",
-    category: "UI/UX",
-    image: "/funiture_ui.jpg",
-    color: "from-green-500/20 to-emerald-500/20",
-    figmaUrl: "https://www.figma.com/design/5Ht1zuN51QvzGaK8DT5TMc/Untitled?node-id=0-1&t=kGept8HQ5r1aU9xY-1",
-  },
-  
+
   {
     id: 4,
     title: "Dashboard Ui",

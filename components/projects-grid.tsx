@@ -24,6 +24,18 @@ const projects = [
   },
   {
     id: 2,
+    title: "Music landing Page",
+    description: "Complete Ui/Ux Design and digital experience for a music platform",
+    category: "UI/UX",
+    image: "/music_landingpage.jpg",
+    color: "from-indigo-500/20 to-blue-500/20",
+    client: "music",
+    year: "2024",
+    tags: ["music", "Web Design", "UI/UX"],
+    figmaUrl: "https://www.figma.com/design/2EcCOH5NNSnQH7SobMNghh/Untitled?node-id=0-1&t=Ks0U5MuCxIXIfwTX-1",
+  },
+  {
+    id: 3,
     title: "Aleris AI",
     description: "Complete Ui/Ux Design and digital experience for an AI Company",
     category: "ui/ux",
@@ -35,7 +47,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/eCQ0Ri7YVDifajAcrxW6hn/Untitled?node-id=0-1&p=f&t=gk6ZldIcrezaZagf-0",
   },
   {
-    id: 3,
+    id: 4,
     title: "Funiture Mobile App",
     description: "User-centered interface design for a funiture application",
     category: "UI/UX",
@@ -47,7 +59,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/5Ht1zuN51QvzGaK8DT5TMc/Untitled?node-id=0-1&t=kGept8HQ5r1aU9xY-1",
   },
   {
-    id: 4,
+    id: 5,
     title: "Dashboard Ui",
     description: "User-centered interface design for a security dashboard",
     category: "UI/UX",
@@ -59,7 +71,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/file/example-interactive-web",
   },
   {
-    id: 5,
+    id: 6,
     title: " Fitness Platform Redesign",
     description: "Complete redesign of a fit platform focusing on conversion optimization",
     category: "UI/UX",
@@ -71,7 +83,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/file/example-ecommerce-redesign",
   },
   {
-    id: 6,
+    id: 7,
     title: "Music Mobile App",
     description: "Complete Ui/Ux Design and digital experience for a music mobile app",
     category: "UI/UX",
@@ -83,7 +95,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/2EcCOH5NNSnQH7SobMNghh/Untitled?node-id=0-1&t=Ks0U5MuCxIXIfwTX-1",
   },
   {
-    id: 7,
+    id: 8,
     title: "Learning Platform Redesign",
     description: "User-centered interface design for a learning platform(Udemy)",
     category: "ui/ux",
@@ -95,7 +107,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/file/example-product-launch",
   },
   {
-    id: 8,
+    id: 9,
     title: "FOOD Mobile App",
     description: "User-centered interface design for a food application",
     category: "Web Design",
@@ -106,9 +118,21 @@ const projects = [
     tags: ["Web Design", "ui/ux", "SEO"],
     figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
   },
+  {
+    id: 10,
+    title: "Car Mobile App",
+    description: "User-centered interface design for a Car application",
+    category: "Web Design",
+    image: "/car_ui.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "car",
+    year: "2024",
+    tags: ["Web Design", "ui/ux", "SEO"],
+    figmaUrl: "",
+  },
 ]
 
-// All unique categories from projects
+
 const categories = ["All", ...Array.from(new Set(projects.map((project) => project.category)))]
 
 export function ProjectsGrid() {
@@ -117,7 +141,7 @@ export function ProjectsGrid() {
   const ref = useRef<HTMLDivElement>(null)
   const isInView = useInView(ref, { once: true, margin: "-100px" })
 
-  // Filter projects based on selected category
+
   const filteredProjects =
     selectedCategory === "All" ? projects : projects.filter((project) => project.category === selectedCategory)
 
