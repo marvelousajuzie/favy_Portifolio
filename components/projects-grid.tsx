@@ -8,7 +8,7 @@ import { ArrowUpRight, ExternalLink } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 
-// Extended project data with Figma URLs
+
 const projects = [
   {
     id: 1,
@@ -20,7 +20,7 @@ const projects = [
     client: "Securabox",
     year: "2025",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/file/example-fashion-brand",
+    figmaUrl: "https://www.figma.com/design/AjzpPtiVDd2EYqRNNLrdmj/Untitled?node-id=0-1&t=obliBeW8u0xzF1vM-1",
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const projects = [
     client: "Aleris AI",
     year: "2025",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/file/example-3d-visualization",
+    figmaUrl: "https://www.figma.com/design/eCQ0Ri7YVDifajAcrxW6hn/Untitled?node-id=0-1&p=f&t=gk6ZldIcrezaZagf-0",
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ const projects = [
     client: "funiture App",
     year: "2024",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/file/example-wellness-app",
+    figmaUrl: "https://www.figma.com/design/5Ht1zuN51QvzGaK8DT5TMc/Untitled?node-id=0-1&t=kGept8HQ5r1aU9xY-1",
   },
   {
     id: 4,
@@ -72,39 +72,39 @@ const projects = [
   },
   {
     id: 6,
-    title: "Brand Identity System",
-    description: "Comprehensive brand identity system for a tech startup",
-    category: "Branding",
-    image: "/creative-visionary.png",
+    title: "Music Mobile App",
+    description: "Complete Ui/Ux Design and digital experience for a music mobile app",
+    category: "UI/UX",
+    image: "/music_ui.jpg",
     color: "from-indigo-500/20 to-blue-500/20",
-    client: "Tech Innovate",
-    year: "2022",
-    tags: ["Logo Design", "Brand Guidelines", "Marketing Materials"],
-    figmaUrl: "https://www.figma.com/file/example-brand-identity",
+    client: "music",
+    year: "2024",
+    tags: ["music", "Web Design", "UI/UX"],
+    figmaUrl: "https://www.figma.com/design/2EcCOH5NNSnQH7SobMNghh/Untitled?node-id=0-1&t=Ks0U5MuCxIXIfwTX-1",
   },
   {
     id: 7,
-    title: "Product Launch Campaign",
-    description: "Integrated marketing campaign for a new product launch",
-    category: "Marketing",
-    image: "/sleek-speaker-display.png",
+    title: "Learning Platform Redesign",
+    description: "User-centered interface design for a learning platform(Udemy)",
+    category: "ui/ux",
+    image: "/learning_ui.jpg",
     color: "from-yellow-500/20 to-amber-500/20",
-    client: "Audio Tech",
-    year: "2023",
-    tags: ["Campaign Strategy", "Visual Design", "Social Media"],
+    client: "learning platform",
+    year: "2024",
+    tags: ["learning", "Web Design", "UI/UX"],
     figmaUrl: "https://www.figma.com/file/example-product-launch",
   },
   {
     id: 8,
-    title: "Corporate Website Redesign",
-    description: "Modern website redesign for a corporate client with focus on user experience",
+    title: "FOOD Mobile App",
+    description: "User-centered interface design for a food application",
     category: "Web Design",
-    image: "/abstract-brand-elements.png",
+    image: "/food_mobile.jpg",
     color: "from-teal-500/20 to-green-500/20",
-    client: "Corporate Inc",
-    year: "2022",
-    tags: ["Web Design", "Content Strategy", "SEO"],
-    figmaUrl: "https://www.figma.com/file/example-corporate-website",
+    client: "food",
+    year: "2024",
+    tags: ["Web Design", "ui/ux", "SEO"],
+    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
   },
 ]
 

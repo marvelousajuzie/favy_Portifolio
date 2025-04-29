@@ -17,7 +17,7 @@ const projects = [
     category: "UI/UX",
     image: "/securaboxx.png",
     color: "from-purple-500/20 to-pink-500/20",
-    figmaUrl: "https://www.figma.com/file/example-fashion-brand",
+    figmaUrl: "https://www.figma.com/design/AjzpPtiVDd2EYqRNNLrdmj/Untitled?node-id=0-1&t=obliBeW8u0xzF1vM-1",
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const projects = [
     category: "ui/ux",
     image: "/aleris.jpg",
     color: "from-blue-500/20 to-cyan-500/20",
-    figmaUrl: "https://www.figma.com/file/example-3d-visualization",
+    figmaUrl: "https://www.figma.com/design/eCQ0Ri7YVDifajAcrxW6hn/Untitled?node-id=0-1&p=f&t=gk6ZldIcrezaZagf-0",
   },
   {
     id: 3,
@@ -35,7 +35,7 @@ const projects = [
     category: "UI/UX",
     image: "/funiture_ui.jpg",
     color: "from-green-500/20 to-emerald-500/20",
-    figmaUrl: "https://www.figma.com/file/example-wellness-app",
+    figmaUrl: "https://www.figma.com/design/5Ht1zuN51QvzGaK8DT5TMc/Untitled?node-id=0-1&t=kGept8HQ5r1aU9xY-1",
   },
   
   {
