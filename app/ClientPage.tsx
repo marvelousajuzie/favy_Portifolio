@@ -39,7 +39,7 @@ export default function ClientPage() {
               <div className="relative aspect-square overflow-hidden rounded-3xl border border-white/10 shadow-2xl">
                 <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-purple-500/10" />
                 <Image
-                  src="/designer-portrait.png"
+                  src="/favor.jpg"
                   alt="Designer portrait"
                   fill
                   className="object-cover mix-blend-luminosity hover:mix-blend-normal transition-all duration-700"
@@ -48,7 +48,7 @@ export default function ClientPage() {
                 <div className="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black/80 to-transparent">
                   <div className="flex items-center gap-4">
                     <div className="h-1 w-12 bg-primary rounded-full" />
-                    <span className="text-white font-light">Creative Director</span>
+                    <span className="text-white font-light">UI/UX Designer</span>
                   </div>
                 </div>
               </div>
@@ -56,7 +56,7 @@ export default function ClientPage() {
               <div className="absolute -bottom-8 -right-8 p-6 backdrop-blur-xl bg-[#111111] border border-white/10 rounded-2xl shadow-xl">
                 <div className="flex items-center gap-4">
                   <div className="flex flex-col">
-                    <span className="text-4xl font-bold text-white">5+</span>
+                    <span className="text-4xl font-bold text-white">3+</span>
                     <span className="text-sm text-white">Years Experience</span>
                   </div>
                   <div className="w-px h-12 bg-white/10" />
@@ -101,7 +101,7 @@ export default function ClientPage() {
                     </li>
                     <li className="flex items-center gap-3">
                       <div className="h-2 w-2 rounded-full bg-primary"></div>
-                      <span className="text-white">3D Visualization</span>
+                      <span className="text-white">Framer Designer</span>
                     </li>
                   </ul>
                 </div>
