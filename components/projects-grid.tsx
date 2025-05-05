@@ -168,6 +168,18 @@ const projects = [
   },
   {
     id: 14,
+    title: "Bussiness Health Website",
+    description: "User-centered interface design for a bussiness health website",
+    category: "Web Design",
+    image: "/sass.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2024",
+    tags: ["Web Design", "ui/ux", "SEO"],
+    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+  },
+  {
+    id: 15,
     title: "SecuraBox Landing Page",
     description: "User-centered interface design for securabox app",
     category: "Web Design",
