@@ -33,12 +33,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "Aleris AI",
-    description: "Complete Ui/Ux Design and digital experience for an AI Company",
+    title: "Car Mobile App",
+    description: "User-centered interface design for a Car application",
     category: "ui/ux",
-    image: "/aleris.jpg",
+    image: "/car_ui.jpg",
     color: "from-blue-500/20 to-cyan-500/20",
-    figmaUrl: "https://www.figma.com/design/eCQ0Ri7YVDifajAcrxW6hn/Untitled?node-id=0-1&p=f&t=gk6ZldIcrezaZagf-0",
+    figmaUrl: "",
   },
 
   {
