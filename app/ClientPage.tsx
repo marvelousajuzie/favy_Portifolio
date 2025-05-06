@@ -176,21 +176,21 @@ export default function ClientPage() {
             </div>
 
             <div className="flex items-center gap-6">
-              <Link href="#" className="text-white hover:text-primary transition-colors">
+              <Link href="https://x.com/favour90840" className="text-white hover:text-primary transition-colors">
                 <Twitter className="h-5 w-5" />
                 <span className="sr-only">Twitter</span>
               </Link>
-              <Link href="#" className="text-white hover:text-primary transition-colors">
+              <Link href="https://www.instagram.com/favydesign/" className="text-white hover:text-primary transition-colors">
                 <Github className="h-5 w-5" />
-                <span className="sr-only">GitHub</span>
+                <span className="sr-only">Instagram</span>
               </Link>
               <Link href="#" className="text-white hover:text-primary transition-colors">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>
-              <Link href="#" className="text-white hover:text-primary transition-colors">
+              <Link href="https://www.behance.net/favourajuzie" className="text-white hover:text-primary transition-colors">
                 <Mail className="h-5 w-5" />
-                <span className="sr-only">Email</span>
+                <span className="sr-only">Behance</span>
               </Link>
             </div>
           </div>

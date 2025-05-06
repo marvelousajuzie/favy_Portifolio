@@ -21,6 +21,7 @@ const projects = [
     year: "2025",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
     figmaUrl: "https://www.figma.com/design/AjzpPtiVDd2EYqRNNLrdmj/Untitled?node-id=0-1&t=obliBeW8u0xzF1vM-1",
+    
   },
   {
     id: 2,
@@ -44,7 +45,7 @@ const projects = [
     client: "car",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "",
+    figmaUrl: "https://www.figma.com/design/R73ByO46tRGjb8WS7reJ9J/Untitled?node-id=0-1&t=q83QZChf3qKhaZ51-1",
   },
   {
     id: 4,
@@ -68,7 +69,7 @@ const projects = [
     client: "dashboard",
     year: "2024",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/file/example-interactive-web",
+    figmaUrl: "https://www.figma.com/design/Jeyw9ZoEGNO5NFazvuPdFX/Untitled?node-id=0-1&t=SB66ZQZ6aSL9qYsB-1",
   },
   {
     id: 6,
@@ -80,7 +81,7 @@ const projects = [
     client: "Aleris AI",
     year: "2025",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/design/eCQ0Ri7YVDifajAcrxW6hn/Untitled?node-id=0-1&p=f&t=gk6ZldIcrezaZagf-0",
+    figmaUrl: "https://www.figma.com/design/eCQ0Ri7YVDifajAcrxW6hn/Untitled?node-id=0-1&t=954Uvg7n9UIbOmUb-1",
   },
   {
     id: 7,
@@ -92,7 +93,7 @@ const projects = [
     client: "Fitness Platform",
     year: "2023",
     tags: ["Fitness", "UI Design", "User Testing"],
-    figmaUrl: "https://www.figma.com/file/example-ecommerce-redesign",
+    figmaUrl: "https://www.figma.com/design/nbDXr8wcSvoLaCD6FWVJ8A/Untitled?node-id=0-1&t=hXtjkoYBSEzz5s69-1",
   },
   {
     id: 8,
@@ -104,7 +105,7 @@ const projects = [
     client: "music",
     year: "2024",
     tags: ["music", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/design/2EcCOH5NNSnQH7SobMNghh/Untitled?node-id=0-1&t=Ks0U5MuCxIXIfwTX-1",
+    figmaUrl: "https://www.figma.com/design/oiTciZHvfO3Brr1ZcWKLYx/Untitled?node-id=0-1&t=v6G8XrU5ejyBp67f-1",
   },
   {
     id: 9,
@@ -116,7 +117,7 @@ const projects = [
     client: "learning platform",
     year: "2024",
     tags: ["learning", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/file/example-product-launch",
+    figmaUrl: "https://www.figma.com/design/ShkSpPVMX8lb2O90JyAxXE/Untitled?node-id=0-1&t=h4JZjE6rFBxlfd5S-1",
   },
   {
     id: 10,
@@ -140,7 +141,7 @@ const projects = [
     client: "health",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+    figmaUrl: "https://www.figma.com/design/61fgjKzH9vIZ1fchuhMlgn/Untitled?node-id=0-1&t=jRpWc5eGFUvu8XMs-1",
   },
   {
     id: 12,
@@ -152,7 +153,7 @@ const projects = [
     client: "aleris ai",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+    figmaUrl: "https://www.figma.com/design/4rN2aK60ZdynSplNKdnaoh/Untitled?node-id=0-1&t=SITDqn9jrpx7EGzI-1",
   },
   {
     id: 13,
@@ -164,7 +165,7 @@ const projects = [
     client: "eventbooking app",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+    figmaUrl: "https://www.figma.com/design/vaVaxEVVXZlftg7Sv6uuhz/Untitled?node-id=0-1&t=SizB9hV7N7PyqBy2-1",
   },
   {
     id: 14,
@@ -176,7 +177,7 @@ const projects = [
     client: "bussiness",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+    figmaUrl: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
   },
   {
     id: 15,
@@ -188,7 +189,7 @@ const projects = [
     client: "securabox",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+    figmaUrl: "https://www.figma.com/design/bFtMCER8wlBnzlfOVN2IKX/Untitled?node-id=0-1&t=a82BGFGJLcWfoahL-",
   },
 
 

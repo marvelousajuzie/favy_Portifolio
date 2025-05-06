@@ -38,7 +38,7 @@ const projects = [
     category: "ui/ux",
     image: "/car_ui.jpg",
     color: "from-blue-500/20 to-cyan-500/20",
-    figmaUrl: "",
+    figmaUrl: "https://www.figma.com/design/R73ByO46tRGjb8WS7reJ9J/Untitled?node-id=0-1&t=q83QZChf3qKhaZ51-1",
   },
 
   {
@@ -48,7 +48,7 @@ const projects = [
     category: "UI/UX",
     image: "/dashboard_ui.jpg",
     color: "from-orange-500/20 to-amber-500/20",
-    figmaUrl: "https://www.figma.com/file/example-interactive-web",
+    figmaUrl: "https://www.figma.com/design/Jeyw9ZoEGNO5NFazvuPdFX/Untitled?node-id=0-1&t=SB66ZQZ6aSL9qYsB-1",
   },
 ]
 
