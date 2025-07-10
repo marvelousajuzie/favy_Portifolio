@@ -33,12 +33,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "Car Mobile App",
-    description: "User-centered interface design for a Car application",
+    title: "Fitness Platform Redesign",
+    description: "User-centered interface design for a fitness application",
     category: "ui/ux",
-    image: "/car_ui.jpg",
+    image: "/fitnesswhite.jpg",
     color: "from-blue-500/20 to-cyan-500/20",
-    figmaUrl: "https://www.figma.com/design/R73ByO46tRGjb8WS7reJ9J/Untitled?node-id=0-1&t=q83QZChf3qKhaZ51-1",
+    figmaUrl: "https://www.figma.com/design/nbDXr8wcSvoLaCD6FWVJ8A/Untitled?node-id=0-1&t=hXtjkoYBSEzz5s69-1",
   },
 
   {
@@ -46,7 +46,7 @@ const projects = [
     title: "Dashboard Ui",
     description: "User-centered interface design for a security dashboard",
     category: "UI/UX",
-    image: "/dashboard_ui.jpg",
+    image: "/clientdashboard.jpg",
     color: "from-orange-500/20 to-amber-500/20",
     figmaUrl: "https://www.figma.com/design/Jeyw9ZoEGNO5NFazvuPdFX/Untitled?node-id=0-1&t=SB66ZQZ6aSL9qYsB-1",
   },
