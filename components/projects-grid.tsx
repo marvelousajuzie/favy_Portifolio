@@ -221,12 +221,12 @@ const projects = [
     title: "SecuraBox Landing Page",
     description: "User-centered interface design for securabox app",
     category: "Web Design",
-    image: "/securaboxlanding_ui.jpg",
+    image: "/securaboxlanding.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "securabox",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/bFtMCER8wlBnzlfOVN2IKX/Untitled?node-id=0-1&t=a82BGFGJLcWfoahL-",
+    figmaUrl: "https://www.behance.net/gallery/223598951/SecuraBox-landing-page-ui-design",
   },
 
   {
@@ -255,7 +255,7 @@ const projects = [
     figmaUrl: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
   {
-    id: 20,
+    id: 21,
     title: " NFT Website",
     description: "User-centered interface design for a nft website",
     category: "Web Design",
