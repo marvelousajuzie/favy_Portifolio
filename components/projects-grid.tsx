@@ -10,8 +10,22 @@ import { Button } from "@/components/ui/button"
 
 
 const projects = [
-  {
+
+   {
     id: 1,
+    title: "SASS Landing Page",
+    description: "Complete Ui/Ux Design and digital experience for sass Page",
+    category: "UI/UX",
+    image: "/sasslanding_img.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+    client: "Securabox",
+    year: "2025",
+    tags: ["Brand Identity", "Web Design", "UI/UX"],
+    Url: "https://www.behance.net/gallery/237879117/SAAS-LANDING-PAGE-HERO-SECTION",
+    
+  },
+  {
+    id: 2,
     title: "SecuraBox",
     description: "Complete Ui/Ux Design and digital experience for a Security Company",
     category: "UI/UX",
@@ -24,7 +38,7 @@ const projects = [
     
   },
    {
-    id: 2,
+    id: 3,
     title: "CRYPTO APP",
     description: "Complete Ui/Ux Design and digital experience for a crypto platform",
     category: "UI/UX",
@@ -36,7 +50,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229137531/Crypto-Wallet-App",
   },
   {
-    id: 3,
+    id: 4,
     title: "Music landing Page",
     description: "Complete Ui/Ux Design and digital experience for a music platform",
     category: "UI/UX",
@@ -48,7 +62,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/212190065/Music-Dashboard-Music-Streaming-Interface",
   },
   {
-    id: 4,
+    id: 5,
     title: "Car Landing Page",
     description: "User-centered interface design for a Car application",
     category: "Web Design",
@@ -60,7 +74,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/214397639/car-landing-page",
   },
   {
-    id: 5,
+    id: 6,
     title: "Funiture Mobile App",
     description: "User-centered interface design for a funiture application",
     category: "UI/UX",
@@ -72,7 +86,7 @@ const projects = [
     figmaUrl: "https://www.behance.net/gallery/212160691/Furniture-Mobile-App-ui-design",
   },
   {
-    id: 6,
+    id: 7,
     title: "Marketing Client Dashboard",
     description: "User-centered interface design for a security dashboard",
     category: "UI/UX",
@@ -84,7 +98,7 @@ const projects = [
     figmaUrl: "https://www.behance.net/gallery/226336571/Marketing-Client-Dashboard",
   },
   {
-    id: 7,
+    id: 8,
     title: "Aleris AI",
     description: "Complete Ui/Ux Design and digital experience for an AI Company",
     category: "ui/ux",
@@ -96,7 +110,7 @@ const projects = [
     figmaUrl: "https://www.behance.net/gallery/229137281/Health-Mobile-App",
   },
   {
-    id: 8,
+    id: 9,
     title: " Fitness Platform Redesign",
     description: "Complete redesign of a fit platform focusing on conversion optimization",
     category: "UI/UX",
@@ -108,7 +122,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/nbDXr8wcSvoLaCD6FWVJ8A/Untitled?node-id=0-1&t=hXtjkoYBSEzz5s69-1",
   },
   {
-    id: 9,
+    id: 10,
     title: "Music Mobile App",
     description: "Complete Ui/Ux Design and digital experience for a music mobile app",
     category: "UI/UX",
@@ -120,7 +134,7 @@ const projects = [
     figmaUrl: "https://www.behance.net/gallery/209825765/music-mobile-app-design",
   },
   {
-    id: 10,
+    id: 11,
     title: "Learning Platform Redesign",
     description: "User-centered interface design for a learning platform(Udemy)",
     category: "ui/ux",
@@ -132,7 +146,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/ShkSpPVMX8lb2O90JyAxXE/Untitled?node-id=0-1&t=h4JZjE6rFBxlfd5S-1",
   },
   {
-    id: 11,
+    id: 12,
     title: "FOOD Mobile App",
     description: "User-centered interface design for a food application",
     category: "Web Design",
@@ -143,8 +157,20 @@ const projects = [
     tags: ["Web Design", "ui/ux", "SEO"],
     figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
   },
+    {
+    id: 13,
+    title: "LANDING PAGE Plannet",
+    description: "User-centered interface design for a landing page",
+    category: "Web Design",
+    image: "/palenet_img.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "landing page",
+    year: "2024",
+    tags: ["Web Design", "ui/ux", "SEO"],
+    figmaUrl: "https://www.behance.net/gallery/229140505/Plannet-website-(-Hero-Section-)",
+  },
   {
-    id: 12,
+    id: 14,
     title: "HealthCare Management App",
     description: "User-centered interface design for a food application",
     category: "Web Design",
@@ -156,7 +182,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/61fgjKzH9vIZ1fchuhMlgn/Untitled?node-id=0-1&t=jRpWc5eGFUvu8XMs-1",
   },
   {
-    id: 13,
+    id: 15,
     title: "Aleris AI Waitlist",
     description: "User-centered interface design for aleris ai app",
     category: "Web Design",
@@ -165,10 +191,10 @@ const projects = [
     client: "aleris ai",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/230049919/aleris-ai-website",
+    figmaUrl: "https://www.behance.net/gallery/237926913/waitlist-ui-design",
   },
   {
-    id: 14,
+    id: 16,
     title: "Perfume1 Website",
     description: "User-centered interface design for perfume website",
     category: "Web Design",
@@ -177,10 +203,10 @@ const projects = [
     client: "perfume app",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/vaVaxEVVXZlftg7Sv6uuhz/Untitled?node-id=0-1&t=SizB9hV7N7PyqBy2-1",
+    figmaUrl: "https://www.behance.net/gallery/237927285/Perfume-Webiste-ui-design",
   },
   {
-    id: 15,
+    id: 17,
     title: "Bussiness Health Website",
     description: "User-centered interface design for a bussiness health website",
     category: "Web Design",
@@ -192,7 +218,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
   },
    {
-    id: 16,
+    id: 18,
     title: "  Password  Management Website",
     description: "User-centered interface design for a Password  Management website",
     category: "Web Design",
@@ -201,11 +227,11 @@ const projects = [
     client: "bussiness",
     year: "2025",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
+    figmaUrl: "https://www.behance.net/gallery/229134783/Password-Managent-landing-page",
   },
 
   {
-    id: 17,
+    id: 19,
     title: "Real Estate Website",
     description: "User-centered interface design for an estate website",
     category: "Web Design",
@@ -217,7 +243,7 @@ const projects = [
     figmaUrl: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
   },
   {
-    id: 18,
+    id: 20,
     title: "SecuraBox Landing Page",
     description: "User-centered interface design for securabox app",
     category: "Web Design",
@@ -230,7 +256,7 @@ const projects = [
   },
 
   {
-    id: 19,
+    id: 21,
     title: "Wardrope Website",
     description: "User-centered interface design for wordrope app",
     category: "Web Design",
@@ -243,7 +269,7 @@ const projects = [
   },
 
     {
-    id: 20,
+    id: 22,
     title: "  Perfume Website",
     description: "User-centered interface design for a Perfume website",
     category: "Web Design",
@@ -255,7 +281,7 @@ const projects = [
     figmaUrl: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
   {
-    id: 21,
+    id: 23,
     title: " NFT Website",
     description: "User-centered interface design for a nft website",
     category: "Web Design",
