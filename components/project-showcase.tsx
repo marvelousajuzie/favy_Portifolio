@@ -11,44 +11,41 @@ import { cn } from "@/lib/utils"
 
 const projects = [
   {
-    id: 1,
-    title: "SecuraBox",
-    description: "Complete Ui/Ux Design and digital experience for a Security Company",
+   id: 1,
+    title: "SASS Landing Page",
+    description: "Complete Ui/Ux Design and digital experience for sass Page",
     category: "UI/UX",
-    image: "/securaboxx.png",
+    image: "/sasslanding_img.jpg",
     color: "from-purple-500/20 to-pink-500/20",
-    figmaUrl: "https://www.figma.com/design/AjzpPtiVDd2EYqRNNLrdmj/Untitled?node-id=0-1&t=obliBeW8u0xzF1vM-1",
+     Url: "https://www.behance.net/gallery/237879117/SAAS-LANDING-PAGE-HERO-SECTION",
   },
   {
     id: 2,
-    title: "Music landing Page",
-    description: "Complete Ui/Ux Design and digital experience for a music platform",
+    title: "SecuraBox",
+    description: "Complete Ui/Ux Design and digital experience for a Security Company",
     category: "UI/UX",
-    image: "/music_landingpage.jpg",
+    image: "/securaboxapp_img.jpg",
     color: "from-indigo-500/20 to-blue-500/20",
-    client: "music",
-    year: "2024",
-    tags: ["music", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/design/2EcCOH5NNSnQH7SobMNghh/Untitled?node-id=0-1&t=Ks0U5MuCxIXIfwTX-1",
+   Url: "https://www.behance.net/gallery/211438871/Security-App-ui-design",
   },
   {
     id: 3,
-    title: "Fitness Platform Redesign",
-    description: "User-centered interface design for a fitness application",
-    category: "ui/ux",
-    image: "/fitnesswhite.jpg",
+    title: "CRYPTO APP",
+    description: "Complete Ui/Ux Design and digital experience for a crypto platform",
+    category: "UI/UX",
+    image: "/cryto_img.jpg",
     color: "from-blue-500/20 to-cyan-500/20",
-    figmaUrl: "https://www.figma.com/design/nbDXr8wcSvoLaCD6FWVJ8A/Untitled?node-id=0-1&t=hXtjkoYBSEzz5s69-1",
+   Url: "https://www.behance.net/gallery/229137531/Crypto-Wallet-App",
   },
 
   {
     id: 4,
-    title: "Dashboard Ui",
-    description: "User-centered interface design for a security dashboard",
+    title: "Music landing Page",
+    description: "Complete Ui/Ux Design and digital experience for a music platform",
     category: "UI/UX",
-    image: "/clientdashboard.jpg",
+    image: "/music_landing.jpg",
     color: "from-orange-500/20 to-amber-500/20",
-    figmaUrl: "https://www.figma.com/design/Jeyw9ZoEGNO5NFazvuPdFX/Untitled?node-id=0-1&t=SB66ZQZ6aSL9qYsB-1",
+    Url: "https://www.behance.net/gallery/212190065/Music-Dashboard-Music-Streaming-Interface",
   },
 ]
 
@@ -119,7 +116,7 @@ export function ProjectShowcase() {
                         className="absolute inset-0 flex items-center justify-center"
                       >
                         <a
-                          href={project.figmaUrl}
+                          href={project.Url}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="flex items-center justify-center h-16 w-16 rounded-full bg-primary text-white"
@@ -137,7 +134,7 @@ export function ProjectShowcase() {
                       {project.category}
                     </span>
                     <a
-                      href={project.figmaUrl}
+                      href={project.Url}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex h-8 w-8 items-center justify-center rounded-full bg-[#151515]/80 text-white backdrop-blur-sm"
