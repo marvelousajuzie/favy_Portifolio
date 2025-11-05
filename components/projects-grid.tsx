@@ -119,7 +119,7 @@ const projects = [
     client: "Fitness Platform",
     year: "2023",
     tags: ["Fitness", "UI Design", "User Testing"],
-    Url: "https://www.figma.com/design/nbDXr8wcSvoLaCD6FWVJ8A/Untitled?node-id=0-1&t=hXtjkoYBSEzz5s69-1",
+    Url: "https://www.behance.net/gallery/229428985/Fitness-Landing-Page",
   },
   {
     id: 10,
@@ -143,7 +143,7 @@ const projects = [
     client: "learning platform",
     year: "2024",
     tags: ["learning", "Web Design", "UI/UX"],
-    Url: "https://www.figma.com/design/ShkSpPVMX8lb2O90JyAxXE/Untitled?node-id=0-1&t=h4JZjE6rFBxlfd5S-1",
+    Url: "https://www.behance.net/gallery/213336395/online-course-landing-page-ui-design",
   },
   {
     id: 12,
@@ -155,7 +155,7 @@ const projects = [
     client: "food",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    Url: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+    Url: "https://www.behance.net/gallery/229135907/Food-Mobile-App",
   },
     {
     id: 13,
@@ -179,7 +179,7 @@ const projects = [
     client: "health",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    Url: "https://www.figma.com/design/61fgjKzH9vIZ1fchuhMlgn/Untitled?node-id=0-1&t=jRpWc5eGFUvu8XMs-1",
+    Url: "https://www.behance.net/gallery/215202239/Healthcare-Management-Landing-page",
   },
   {
     id: 15,
@@ -207,15 +207,15 @@ const projects = [
   },
   {
     id: 17,
-    title: "Bussiness Health Website",
-    description: "User-centered interface design for a bussiness health website",
+    title: "SASS LANDING PAGE",
+    description: "User-centered interface design for a landing page",
     category: "Web Design",
     image: "/bussinesshealth_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    Url: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
+    Url: "https://www.behance.net/gallery/225955575/Saas-Landing-Page-UI-design",
   },
    {
     id: 18,
@@ -240,7 +240,7 @@ const projects = [
     client: "bussiness",
     year: "2025",
     tags: ["Web Design", "ui/ux", "SEO"],
-    Url: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
+    Url: "https://www.behance.net/gallery/204598139/real-estate-website-homepage",
   },
   {
     id: 20,
