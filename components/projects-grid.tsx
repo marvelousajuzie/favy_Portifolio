@@ -102,7 +102,7 @@ const projects = [
     title: "Aleris AI",
     description: "Complete Ui/Ux Design and digital experience for an AI Company",
     category: "ui/ux",
-    image: "/alerisappimg.jpg",
+    image: "/aleris_appimg.jpg",
     color: "from-blue-500/20 to-cyan-500/20",
     client: "Aleris AI",
     year: "2025",
