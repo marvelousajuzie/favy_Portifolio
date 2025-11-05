@@ -83,7 +83,7 @@ const projects = [
     client: "funiture App",
     year: "2024",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.behance.net/gallery/212160691/Furniture-Mobile-App-ui-design",
+    Url: "https://www.behance.net/gallery/212160691/Furniture-Mobile-App-ui-design",
   },
   {
     id: 7,
@@ -95,7 +95,7 @@ const projects = [
     client: "dashboard",
     year: "2024",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.behance.net/gallery/226336571/Marketing-Client-Dashboard",
+    Url: "https://www.behance.net/gallery/226336571/Marketing-Client-Dashboard",
   },
   {
     id: 8,
@@ -107,7 +107,7 @@ const projects = [
     client: "Aleris AI",
     year: "2025",
     tags: ["Brand Identity", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.behance.net/gallery/229137281/Health-Mobile-App",
+    Url: "https://www.behance.net/gallery/229137281/Health-Mobile-App",
   },
   {
     id: 9,
@@ -119,7 +119,7 @@ const projects = [
     client: "Fitness Platform",
     year: "2023",
     tags: ["Fitness", "UI Design", "User Testing"],
-    figmaUrl: "https://www.figma.com/design/nbDXr8wcSvoLaCD6FWVJ8A/Untitled?node-id=0-1&t=hXtjkoYBSEzz5s69-1",
+    Url: "https://www.figma.com/design/nbDXr8wcSvoLaCD6FWVJ8A/Untitled?node-id=0-1&t=hXtjkoYBSEzz5s69-1",
   },
   {
     id: 10,
@@ -131,7 +131,7 @@ const projects = [
     client: "music",
     year: "2024",
     tags: ["music", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.behance.net/gallery/209825765/music-mobile-app-design",
+    Url: "https://www.behance.net/gallery/209825765/music-mobile-app-design",
   },
   {
     id: 11,
@@ -143,7 +143,7 @@ const projects = [
     client: "learning platform",
     year: "2024",
     tags: ["learning", "Web Design", "UI/UX"],
-    figmaUrl: "https://www.figma.com/design/ShkSpPVMX8lb2O90JyAxXE/Untitled?node-id=0-1&t=h4JZjE6rFBxlfd5S-1",
+    Url: "https://www.figma.com/design/ShkSpPVMX8lb2O90JyAxXE/Untitled?node-id=0-1&t=h4JZjE6rFBxlfd5S-1",
   },
   {
     id: 12,
@@ -155,7 +155,7 @@ const projects = [
     client: "food",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
+    Url: "https://www.figma.com/design/jxOyQFjvQymETbPRr0w2q0/Untitled?node-id=0-1&t=VFWNXh1seFcliF6S-1",
   },
     {
     id: 13,
@@ -167,7 +167,7 @@ const projects = [
     client: "landing page",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/229140505/Plannet-website-(-Hero-Section-)",
+    Url: "https://www.behance.net/gallery/229140505/Plannet-website-(-Hero-Section-)",
   },
   {
     id: 14,
@@ -179,7 +179,7 @@ const projects = [
     client: "health",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/61fgjKzH9vIZ1fchuhMlgn/Untitled?node-id=0-1&t=jRpWc5eGFUvu8XMs-1",
+    Url: "https://www.figma.com/design/61fgjKzH9vIZ1fchuhMlgn/Untitled?node-id=0-1&t=jRpWc5eGFUvu8XMs-1",
   },
   {
     id: 15,
@@ -191,7 +191,7 @@ const projects = [
     client: "aleris ai",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/237926913/waitlist-ui-design",
+    Url: "https://www.behance.net/gallery/237926913/waitlist-ui-design",
   },
   {
     id: 16,
@@ -203,7 +203,7 @@ const projects = [
     client: "perfume app",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/237927285/Perfume-Webiste-ui-design",
+    Url: "https://www.behance.net/gallery/237927285/Perfume-Webiste-ui-design",
   },
   {
     id: 17,
@@ -215,7 +215,7 @@ const projects = [
     client: "bussiness",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
+    Url: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
   },
    {
     id: 18,
@@ -227,7 +227,7 @@ const projects = [
     client: "bussiness",
     year: "2025",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/229134783/Password-Managent-landing-page",
+    Url: "https://www.behance.net/gallery/229134783/Password-Managent-landing-page",
   },
 
   {
@@ -240,7 +240,7 @@ const projects = [
     client: "bussiness",
     year: "2025",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
+    Url: "https://www.figma.com/design/osMZ0loc8XVi7JAQBy3tCq/Untitled?node-id=0-1&t=J6Pe2EeHXoWawI2u-1",
   },
   {
     id: 20,
@@ -252,7 +252,7 @@ const projects = [
     client: "securabox",
     year: "2024",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/223598951/SecuraBox-landing-page-ui-design",
+    Url: "https://www.behance.net/gallery/223598951/SecuraBox-landing-page-ui-design",
   },
 
   {
@@ -265,7 +265,7 @@ const projects = [
     client: "Wordrop",
     year: "2025",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/229139419/Wardrop-Mobile-App-UI-Design",
+    Url: "https://www.behance.net/gallery/229139419/Wardrop-Mobile-App-UI-Design",
   },
 
     {
@@ -278,7 +278,7 @@ const projects = [
     client: "bussiness",
     year: "2025",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
+    Url: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
   {
     id: 23,
@@ -290,7 +290,7 @@ const projects = [
     client: "bussiness",
     year: "2025",
     tags: ["Web Design", "ui/ux", "SEO"],
-    figmaUrl: "https://www.behance.net/gallery/212298827/nft-mobile-app-ui-design",
+    Url: "https://www.behance.net/gallery/212298827/nft-mobile-app-ui-design",
   },
 
 
@@ -379,7 +379,7 @@ export function ProjectsGrid() {
                           className="absolute inset-0 flex items-center justify-center"
                         >
                           <a
-                            href={project.figmaUrl}
+                            href={project.Url}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center justify-center h-16 w-16 rounded-full bg-primary text-white"
@@ -397,7 +397,7 @@ export function ProjectsGrid() {
                         {project.category}
                       </span>
                       <a
-                        href={project.figmaUrl}
+                        href={project.Url}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex h-8 w-8 items-center justify-center rounded-full bg-[#151515]/80 text-white backdrop-blur-sm"
