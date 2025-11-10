@@ -39,7 +39,7 @@ export default function ClientPage() {
               <div className="relative aspect-square overflow-hidden rounded-3xl border border-white/10 shadow-2xl">
                 <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-purple-500/10" />
                 <Image
-                  src="/favor.jpg"
+                  src="/favydesign.jpeg"
                   alt="Designer portrait"
                   fill
                   className="object-cover mix-blend-luminosity hover:mix-blend-normal transition-all duration-700"
