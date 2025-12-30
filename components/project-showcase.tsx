@@ -10,8 +10,35 @@ import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 
 const projects = [
-  {
+   {
    id: 1,
+    title: "Fintech Mobile App",
+    description: "Complete Ui/Ux Design and digital experience for a Fintech Mobile app",
+    category: "UI/UX",
+    image: "/Fintech app.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+     Url: "https://www.behance.net/gallery/239675023/Fintech-App",
+  },
+  {
+   id: 2,
+    title: "Salad Bar Resturant website ( landing )",
+    description: "Complete Ui/Ux Design and digital experience for a Salad website",
+    category: "UI/UX",
+    image: "/fitness website.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+     Url: "https://www.behance.net/gallery/240902507/Salad-Bar-Restaurant-website ",
+  },
+   {
+   id: 3,
+    title: "internal logistic app design",
+    description: "Complete Ui/Ux Design and digital experience for a logistic app ",
+    category: "UI/UX",
+    image: "/logistic_app.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+     Url: "https://www.behance.net/gallery/240903405/Internal-Trip-Delivery-Coordination-App",
+  },
+  {
+   id: 4,
     title: "SASS Landing Page",
     description: "Complete Ui/Ux Design and digital experience for sass Page",
     category: "UI/UX",
@@ -20,7 +47,7 @@ const projects = [
      Url: "https://www.behance.net/gallery/237879117/SAAS-LANDING-PAGE-HERO-SECTION",
   },
   {
-    id: 2,
+    id: 5,
     title: "SecuraBox",
     description: "Complete Ui/Ux Design and digital experience for a Security Company",
     category: "UI/UX",
@@ -29,7 +56,7 @@ const projects = [
    Url: "https://www.behance.net/gallery/211438871/Security-App-ui-design",
   },
   {
-    id: 3,
+    id: 6,
     title: "CRYPTO APP",
     description: "Complete Ui/Ux Design and digital experience for a crypto platform",
     category: "UI/UX",
@@ -39,7 +66,7 @@ const projects = [
   },
 
   {
-    id: 4,
+    id: 7,
     title: "Music landing Page",
     description: "Complete Ui/Ux Design and digital experience for a music platform",
     category: "UI/UX",

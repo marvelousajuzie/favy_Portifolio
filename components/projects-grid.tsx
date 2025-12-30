@@ -11,8 +11,35 @@ import { Button } from "@/components/ui/button"
 
 const projects = [
 
+  {
+   id: 1,
+    title: "Fintech Mobile App",
+    description: "Complete Ui/Ux Design and digital experience for a Fintech Mobile app",
+    category: "UI/UX",
+    image: "/Fintech app.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+     Url: "https://www.behance.net/gallery/239675023/Fintech-App",
+  },
+  {
+   id: 2,
+    title: "Salad Bar Resturant website ( landing )",
+    description: "Complete Ui/Ux Design and digital experience for a Salad website",
+    category: "UI/UX",
+    image: "/fitness website.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+     Url: "https://www.behance.net/gallery/240902507/Salad-Bar-Restaurant-website ",
+  },
    {
-    id: 1,
+   id: 3,
+    title: "internal logistic app design",
+    description: "Complete Ui/Ux Design and digital experience for a logistic app ",
+    category: "UI/UX",
+    image: "/logistic_app.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+     Url: "https://www.behance.net/gallery/240903405/Internal-Trip-Delivery-Coordination-App",
+  },
+   {
+    id: 4,
     title: "SASS Landing Page",
     description: "Complete Ui/Ux Design and digital experience for sass Page",
     category: "UI/UX",
@@ -25,7 +52,7 @@ const projects = [
     
   },
   {
-    id: 2,
+    id: 5,
     title: "SecuraBox",
     description: "Complete Ui/Ux Design and digital experience for a Security Company",
     category: "UI/UX",
@@ -38,7 +65,7 @@ const projects = [
     
   },
    {
-    id: 3,
+    id: 6,
     title: "CRYPTO APP",
     description: "Complete Ui/Ux Design and digital experience for a crypto platform",
     category: "UI/UX",
@@ -50,7 +77,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229137531/Crypto-Wallet-App",
   },
   {
-    id: 4,
+    id: 7,
     title: "Music landing Page",
     description: "Complete Ui/Ux Design and digital experience for a music platform",
     category: "UI/UX",
@@ -62,7 +89,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/212190065/Music-Dashboard-Music-Streaming-Interface",
   },
   {
-    id: 5,
+    id: 8,
     title: "Car Landing Page",
     description: "User-centered interface design for a Car application",
     category: "Web Design",
@@ -74,7 +101,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/214397639/car-landing-page",
   },
   {
-    id: 6,
+    id: 9,
     title: "Funiture Mobile App",
     description: "User-centered interface design for a funiture application",
     category: "UI/UX",
@@ -86,7 +113,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/212160691/Furniture-Mobile-App-ui-design",
   },
   {
-    id: 7,
+    id: 10,
     title: "Marketing Client Dashboard",
     description: "User-centered interface design for a security dashboard",
     category: "UI/UX",
@@ -98,7 +125,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/226336571/Marketing-Client-Dashboard",
   },
   {
-    id: 8,
+    id: 11,
     title: "Aleris AI",
     description: "Complete Ui/Ux Design and digital experience for an AI Company",
     category: "ui/ux",
@@ -110,8 +137,8 @@ const projects = [
     Url: "https://www.behance.net/gallery/229137281/Health-Mobile-App",
   },
   {
-    id: 9,
-    title: " Fitness Platform Redesign",
+    id: 12,
+    title: " Fitness Mobile App",
     description: "Complete redesign of a fit platform focusing on conversion optimization",
     category: "UI/UX",
     image: "/fitnesswhite.jpg",
@@ -119,10 +146,10 @@ const projects = [
     client: "Fitness Platform",
     year: "2023",
     tags: ["Fitness", "UI Design", "User Testing"],
-    Url: "https://www.behance.net/gallery/229428985/Fitness-Landing-Page",
+    Url: "https://www.behance.net/gallery/229138699/Fitness-Mobile-App",
   },
   {
-    id: 10,
+    id: 13,
     title: "Music Mobile App",
     description: "Complete Ui/Ux Design and digital experience for a music mobile app",
     category: "UI/UX",
@@ -134,7 +161,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/209825765/music-mobile-app-design",
   },
   {
-    id: 11,
+    id: 14,
     title: "Learning Platform Redesign",
     description: "User-centered interface design for a learning platform(Udemy)",
     category: "ui/ux",
@@ -146,7 +173,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/213336395/online-course-landing-page-ui-design",
   },
   {
-    id: 12,
+    id: 15,
     title: "FOOD Mobile App",
     description: "User-centered interface design for a food application",
     category: "Web Design",
@@ -158,7 +185,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229135907/Food-Mobile-App",
   },
     {
-    id: 13,
+    id: 16,
     title: "LANDING PAGE Plannet",
     description: "User-centered interface design for a landing page",
     category: "Web Design",
@@ -170,7 +197,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229140505/Plannet-website-(-Hero-Section-)",
   },
   {
-    id: 14,
+    id: 17,
     title: "HealthCare Management App",
     description: "User-centered interface design for a food application",
     category: "Web Design",
@@ -182,7 +209,19 @@ const projects = [
     Url: "https://www.behance.net/gallery/215202239/Healthcare-Management-Landing-page",
   },
   {
-    id: 15,
+    id: 18,
+    title: " Fitness Landing Page",
+    description: "Complete redesign of Fitness landing page",
+    category: "UI/UX",
+    image: "/fitness website.jpg",
+    color: "from-pink-500/20 to-red-500/20",
+    client: "Fitness Platform",
+    year: "2023",
+    tags: ["Fitness", "UI Design", "User Testing"],
+    Url: "https://www.behance.net/gallery/229428985/Fitness-Landing-Page",
+  },
+  {
+    id: 19,
     title: "Aleris AI Waitlist",
     description: "User-centered interface design for aleris ai app",
     category: "Web Design",
@@ -194,7 +233,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/237926913/waitlist-ui-design",
   },
   {
-    id: 16,
+    id: 20,
     title: "Perfume1 Website",
     description: "User-centered interface design for perfume website",
     category: "Web Design",
@@ -206,7 +245,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/237927285/Perfume-Webiste-ui-design",
   },
   {
-    id: 17,
+    id: 21,
     title: "SASS LANDING PAGE",
     description: "User-centered interface design for a landing page",
     category: "Web Design",
@@ -218,7 +257,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/225955575/Saas-Landing-Page-UI-design",
   },
    {
-    id: 18,
+    id: 22,
     title: "  Password  Management Website",
     description: "User-centered interface design for a Password  Management website",
     category: "Web Design",
@@ -231,7 +270,7 @@ const projects = [
   },
 
   {
-    id: 19,
+    id: 23,
     title: "Real Estate Website",
     description: "User-centered interface design for an estate website",
     category: "Web Design",
@@ -243,7 +282,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/204598139/real-estate-website-homepage",
   },
   {
-    id: 20,
+    id: 24,
     title: "SecuraBox Landing Page",
     description: "User-centered interface design for securabox app",
     category: "Web Design",
@@ -256,7 +295,7 @@ const projects = [
   },
 
   {
-    id: 21,
+    id: 25,
     title: "Wardrope Website",
     description: "User-centered interface design for wordrope app",
     category: "Web Design",
@@ -269,7 +308,7 @@ const projects = [
   },
 
     {
-    id: 22,
+    id: 26,
     title: "  Perfume Website",
     description: "User-centered interface design for a Perfume website",
     category: "Web Design",
@@ -281,7 +320,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
   {
-    id: 23,
+    id: 27,
     title: " NFT Website",
     description: "User-centered interface design for a nft website",
     category: "Web Design",
