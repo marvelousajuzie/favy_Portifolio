@@ -24,7 +24,7 @@ const projects = [
     title: "Salad Bar Resturant website ( landing )",
     description: "Complete Ui/Ux Design and digital experience for a Salad website",
     category: "UI/UX",
-    image: "/fitness website.jpg",
+    image: "/Salad website.jpg",
     color: "from-purple-500/20 to-pink-500/20",
      Url: "https://www.behance.net/gallery/240902507/Salad-Bar-Restaurant-website ",
   },
