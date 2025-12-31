@@ -447,14 +447,16 @@ export function ProjectsGrid() {
                     <h3 className="text-xl font-bold mb-2 text-white">{project.title}</h3>
                     <p className="text-white mb-4">{project.description}</p>
 
-                    <div className="flex flex-wrap gap-2 mt-4">
-                      {project.tags.map((tag) => (
-                        <span key={tag} className="text-xs text-white/80 bg-white/5 px-2 py-1 rounded-full">
-                          {tag}
-                        </span>
-                      ))}
-                    </div>
-
+                   {/* Add safety check for tags */}
+                       {project.tags && project.tags.length > 0 && (
+                            <div className="flex flex-wrap gap-2 mt-4">
+                           {project.tags.map((tag) => (
+                          <span key={tag} className="text-xs text-white/80 bg-white/5 px-2 py-1 rounded-full">
+                                {tag}
+                                </span>
+                                ))}
+                                </div>
+                             )}
                     <div className="flex justify-between items-center mt-4 pt-4 border-t border-white/10">
                       <div className="text-sm text-white">
                         <span className="text-white/60">Client:</span> {project.client}
