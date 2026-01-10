@@ -19,12 +19,7 @@ const services = [
     icon: Layout,
   },
   {
-    title: "Brand Identity",
-    description: "Developing cohesive visual identities that communicate your brand's values and personality.",
-    icon: Palette,
-  },
-  {
-    title: "Web Design",
+    title: "Wordpress Developer",
     description: "Designing beautiful, responsive websites that convert visitors into customers.",
     icon: Globe,
   },
@@ -38,11 +33,7 @@ const services = [
     description: "Creating realistic framer designs and environments for products and spaces.",
     icon: Cube,
   },
-  {
-    title: "Art Direction",
-    description: "Guiding the visual style and creative vision for your projects.",
-    icon: Compass,
-  },
+
 ]
 
 function ServiceCard({ title, description, icon: Icon, index, isInView }: ServiceCardProps) {
