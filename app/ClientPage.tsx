@@ -93,15 +93,11 @@ export default function ClientPage() {
                     </li>
                     <li className="flex items-center gap-3">
                       <div className="h-2 w-2 rounded-full bg-primary"></div>
-                      <span className="text-white">Brand Identity</span>
+                      <span className="text-white"> Wordpress Develper</span>
                     </li>
                     <li className="flex items-center gap-3">
                       <div className="h-2 w-2 rounded-full bg-primary"></div>
                       <span className="text-white">Motion Graphics</span>
-                    </li>
-                    <li className="flex items-center gap-3">
-                      <div className="h-2 w-2 rounded-full bg-primary"></div>
-                      <span className="text-white">Framer Designer</span>
                     </li>
                   </ul>
                 </div>
@@ -114,16 +110,9 @@ export default function ClientPage() {
                     </li>
                     <li className="flex items-center gap-3">
                       <div className="h-2 w-2 rounded-full bg-primary"></div>
-                      <span className="text-white">Blender & Cinema 4D</span>
+                      <span className="text-white">Canva</span>
                     </li>
-                    <li className="flex items-center gap-3">
-                      <div className="h-2 w-2 rounded-full bg-primary"></div>
-                      <span className="text-white">After Effects</span>
-                    </li>
-                    <li className="flex items-center gap-3">
-                      <div className="h-2 w-2 rounded-full bg-primary"></div>
-                      <span className="text-white">WebGL & Three.js</span>
-                    </li>
+                  
                   </ul>
                 </div>
               </div>
