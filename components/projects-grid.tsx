@@ -329,7 +329,17 @@ const projects = [
     Url: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
 
-
+    {
+    id: 28,
+    title: "  Beauty Design",
+    description: "Graphic design project for a beauty brand, creating visually stunning and cohesive designs that capture the essence of the brand and resonate with its target audience.",
+    category: "UI/UX",
+    image: "/liquerose.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2025",
+    tags: ["Graphics"],
+  },
 
 ]
 
