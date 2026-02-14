@@ -29,8 +29,17 @@ const projects = [
     color: "from-purple-500/20 to-pink-500/20",
      Url: "https://www.behance.net/gallery/240902507/Salad-Bar-Restaurant-website ",
   },
-   {
+    {
    id: 3,
+    title: "Alyra Ai Assistant",
+    description: "Complete Ui/Ux Design and digital experience for a AI assistant app ",
+    category: "UI/UX",
+    image: "/alyra_img.jpg",
+    color: "from-purple-500/20 to-pink-500/20",
+     Url: "https://www.behance.net/gallery/241137531/Alyra-Ai-Assistant",
+  },
+   {
+   id: 4,
     title: "internal logistic app design",
     description: "Complete Ui/Ux Design and digital experience for a logistic app ",
     category: "UI/UX",
@@ -39,7 +48,7 @@ const projects = [
      Url: "https://www.behance.net/gallery/240903405/Internal-Trip-Delivery-Coordination-App",
   },
    {
-    id: 4,
+    id: 5,
     title: "SASS Landing Page",
     description: "Complete Ui/Ux Design and digital experience for sass Page",
     category: "UI/UX",
@@ -52,11 +61,11 @@ const projects = [
     
   },
   {
-    id: 5,
+    id: 6,
     title: "SecuraBox",
     description: "Complete Ui/Ux Design and digital experience for a Security Company",
     category: "UI/UX",
-    image: "/securaboxapp_img.jpg",
+    image: "/securabox.jpg",
     color: "from-purple-500/20 to-pink-500/20",
     client: "Securabox",
     year: "2025",
@@ -65,7 +74,7 @@ const projects = [
     
   },
    {
-    id: 6,
+    id: 7,
     title: "CRYPTO APP",
     description: "Complete Ui/Ux Design and digital experience for a crypto platform",
     category: "UI/UX",
@@ -77,7 +86,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229137531/Crypto-Wallet-App",
   },
   {
-    id: 7,
+    id: 8,
     title: "Music landing Page",
     description: "Complete Ui/Ux Design and digital experience for a music platform",
     category: "UI/UX",
@@ -89,10 +98,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/212190065/Music-Dashboard-Music-Streaming-Interface",
   },
   {
-    id: 8,
+    id: 9,
     title: "Car Landing Page",
     description: "User-centered interface design for a Car application",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/car_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "car",
@@ -101,7 +110,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/214397639/car-landing-page",
   },
   {
-    id: 9,
+    id: 10,
     title: "Funiture Mobile App",
     description: "User-centered interface design for a funiture application",
     category: "UI/UX",
@@ -113,7 +122,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/212160691/Furniture-Mobile-App-ui-design",
   },
   {
-    id: 10,
+    id: 11,
     title: "Marketing Client Dashboard",
     description: "User-centered interface design for a security dashboard",
     category: "UI/UX",
@@ -125,10 +134,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/226336571/Marketing-Client-Dashboard",
   },
   {
-    id: 11,
+    id: 12,
     title: "Aleris AI",
     description: "Complete Ui/Ux Design and digital experience for an AI Company",
-    category: "ui/ux",
+    category: "UI/UX",
     image: "/aleris_appimg.jpg",
     color: "from-blue-500/20 to-cyan-500/20",
     client: "Aleris AI",
@@ -137,7 +146,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229137281/Health-Mobile-App",
   },
   {
-    id: 12,
+    id: 13,
     title: " Fitness Mobile App",
     description: "Complete redesign of a fit platform focusing on conversion optimization",
     category: "UI/UX",
@@ -149,7 +158,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/229138699/Fitness-Mobile-App",
   },
   {
-    id: 13,
+    id: 14,
     title: "Music Mobile App",
     description: "Complete Ui/Ux Design and digital experience for a music mobile app",
     category: "UI/UX",
@@ -161,10 +170,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/209825765/music-mobile-app-design",
   },
   {
-    id: 14,
+    id: 15,
     title: "Learning Platform Redesign",
     description: "User-centered interface design for a learning platform(Udemy)",
-    category: "ui/ux",
+    category: "UI/UX",
     image: "/learning_pimg.jpg",
     color: "from-yellow-500/20 to-amber-500/20",
     client: "learning platform",
@@ -173,10 +182,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/213336395/online-course-landing-page-ui-design",
   },
   {
-    id: 15,
+    id: 16,
     title: "FOOD Mobile App",
     description: "User-centered interface design for a food application",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/food_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "food",
@@ -185,10 +194,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/229135907/Food-Mobile-App",
   },
     {
-    id: 16,
+    id: 17,
     title: "LANDING PAGE Plannet",
     description: "User-centered interface design for a landing page",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/palenet_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "landing page",
@@ -197,10 +206,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/229140505/Plannet-website-(-Hero-Section-)",
   },
   {
-    id: 17,
+    id: 18,
     title: "HealthCare Management App",
     description: "User-centered interface design for a food application",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/healthcare_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "health",
@@ -209,7 +218,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/215202239/Healthcare-Management-Landing-page",
   },
   {
-    id: 18,
+    id: 19,
     title: " Fitness Landing Page",
     description: "Complete redesign of Fitness landing page",
     category: "UI/UX",
@@ -221,10 +230,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/229428985/Fitness-Landing-Page",
   },
   {
-    id: 19,
+    id: 20,
     title: "Aleris AI Waitlist",
     description: "User-centered interface design for aleris ai app",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/aleris_aiwaitlist.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "aleris ai",
@@ -233,11 +242,11 @@ const projects = [
     Url: "https://www.behance.net/gallery/237926913/waitlist-ui-design",
   },
   {
-    id: 20,
-    title: "Perfume1 Website",
+    id: 21,
+    title: "Perfume Landing Page",
     description: "User-centered interface design for perfume website",
-    category: "Web Design",
-    image: "/perfume2.jpg",
+    category: "UI/UX",
+    image: "/perfume_landing.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "perfume app",
     year: "2024",
@@ -245,10 +254,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/237927285/Perfume-Webiste-ui-design",
   },
   {
-    id: 21,
+    id: 22,
     title: "SASS LANDING PAGE",
     description: "User-centered interface design for a landing page",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/bussinesshealth_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
@@ -257,10 +266,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/225955575/Saas-Landing-Page-UI-design",
   },
    {
-    id: 22,
+    id: 23,
     title: "  Password  Management Website",
     description: "User-centered interface design for a Password  Management website",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/passwordm_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
@@ -270,10 +279,10 @@ const projects = [
   },
 
   {
-    id: 23,
+    id: 24,
     title: "Real Estate Website",
     description: "User-centered interface design for an estate website",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/realestate_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
@@ -282,10 +291,10 @@ const projects = [
     Url: "https://www.behance.net/gallery/204598139/real-estate-website-homepage",
   },
   {
-    id: 24,
+    id: 25,
     title: "SecuraBox Landing Page",
     description: "User-centered interface design for securabox app",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/securaboxlanding_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "securabox",
@@ -295,10 +304,10 @@ const projects = [
   },
 
   {
-    id: 25,
+    id: 26,
     title: "Wardrope Website",
     description: "User-centered interface design for wordrope app",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/wordrop_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "Wordrop",
@@ -308,10 +317,10 @@ const projects = [
   },
 
     {
-    id: 26,
+    id: 27,
     title: "  Perfume Website",
     description: "User-centered interface design for a Perfume website",
-    category: "Web Design",
+    category: "UI/UX",
     image: "/perfume1_img.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
@@ -319,24 +328,12 @@ const projects = [
     tags: ["Web Design", "ui/ux", "SEO"],
     Url: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
-  {
-    id: 27,
-    title: " NFT Website",
-    description: "User-centered interface design for a nft website",
-    category: "Web Design",
-    image: "/nft_img.jpg",
-    color: "from-teal-500/20 to-green-500/20",
-    client: "bussiness",
-    year: "2025",
-    tags: ["Web Design", "ui/ux", "SEO"],
-    Url: "https://www.behance.net/gallery/212298827/nft-mobile-app-ui-design",
-  },
+
 
 
 ]
 
-
-const categories = ["All", ...Array.from(new Set(projects.map((project) => project.category)))]
+const categories = ["All", "UI/UX", "Graphics"]
 
 export function ProjectsGrid() {
   const [activeProject, setActiveProject] = useState<number | null>(null)
@@ -364,9 +361,9 @@ export function ProjectsGrid() {
               size="sm"
               onClick={() => setSelectedCategory(category)}
               className={cn(
-                "rounded-full",
+                "rounded-full transition-all duration-300",
                 selectedCategory === category
-                  ? "bg-primary text-white"
+                  ? "bg-primary text-white shadow-lg shadow-primary/25"
                   : "border-white/20 bg-[#151515]/80 hover:bg-[#151515] text-white",
               )}
             >
