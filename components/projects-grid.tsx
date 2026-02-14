@@ -114,7 +114,7 @@ const projects = [
     title: "Funiture Mobile App",
     description: "User-centered interface design for a funiture application",
     category: "UI/UX",
-    image: "/funiture.jpg",
+    image: "/funiture_img.jpg",
     color: "from-green-500/20 to-emerald-500/20",
     client: "funiture App",
     year: "2024",
@@ -329,18 +329,44 @@ const projects = [
     Url: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
 
-    {
+   {
     id: 28,
-    title: "  Beauty Design",
-    description: "Graphic design project for a beauty brand, creating visually stunning and cohesive designs that capture the essence of the brand and resonate with its target audience.",
-    category: "UI/UX",
-    image: "/liquerose.png",
+    title: "  Church Flyer Design",
+    category: "Graphics",
+    image: "/unleash.png",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
-    year: "2025",
+    year: "2026",
     tags: ["Graphics"],
   },
 
+
+    {
+    id: 29,
+    title: "  Beauty Design",
+    category: "Graphics",
+    image: "/liquerose.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+    {
+    id: 30,
+    title: "  Food Design",
+    category: "Graphics",
+    image: "/food_design.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+
+  
 ]
 
 const categories = ["All", "UI/UX", "Graphics"]
