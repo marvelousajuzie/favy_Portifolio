@@ -36,7 +36,7 @@ const projects = [
     category: "UI/UX",
     image: "/alyra_img.jpg",
     color: "from-purple-500/20 to-pink-500/20",
-     Url: "https://www.behance.net/gallery/241137531/Alyra-Ai-Assistant",
+     Url: "https://www.behance.net/gallery/243483083/AI-ASSISTANT-MOBILE-APP-DESIGN",
   },
    {
    id: 4,
@@ -229,20 +229,9 @@ const projects = [
     tags: ["Fitness", "UI Design", "User Testing"],
     Url: "https://www.behance.net/gallery/229428985/Fitness-Landing-Page",
   },
+ 
   {
     id: 20,
-    title: "Aleris AI Waitlist",
-    description: "User-centered interface design for aleris ai app",
-    category: "UI/UX",
-    image: "/aleris_aiwaitlist.jpg",
-    color: "from-teal-500/20 to-green-500/20",
-    client: "aleris ai",
-    year: "2024",
-    tags: ["Web Design", "ui/ux", "SEO"],
-    Url: "https://www.behance.net/gallery/237926913/waitlist-ui-design",
-  },
-  {
-    id: 21,
     title: "Perfume Landing Page",
     description: "User-centered interface design for perfume website",
     category: "UI/UX",
@@ -254,7 +243,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/237927285/Perfume-Webiste-ui-design",
   },
   {
-    id: 22,
+    id: 21,
     title: "SASS LANDING PAGE",
     description: "User-centered interface design for a landing page",
     category: "UI/UX",
@@ -266,7 +255,7 @@ const projects = [
     Url: "https://www.behance.net/gallery/225955575/Saas-Landing-Page-UI-design",
   },
    {
-    id: 23,
+    id: 22,
     title: "  Password  Management Website",
     description: "User-centered interface design for a Password  Management website",
     category: "UI/UX",
@@ -279,7 +268,7 @@ const projects = [
   },
 
   {
-    id: 24,
+    id: 23,
     title: "Real Estate Website",
     description: "User-centered interface design for an estate website",
     category: "UI/UX",
@@ -290,21 +279,10 @@ const projects = [
     tags: ["Web Design", "ui/ux", "SEO"],
     Url: "https://www.behance.net/gallery/204598139/real-estate-website-homepage",
   },
-  {
-    id: 25,
-    title: "SecuraBox Landing Page",
-    description: "User-centered interface design for securabox app",
-    category: "UI/UX",
-    image: "/securaboxlanding_img.jpg",
-    color: "from-teal-500/20 to-green-500/20",
-    client: "securabox",
-    year: "2024",
-    tags: ["Web Design", "ui/ux", "SEO"],
-    Url: "https://www.behance.net/gallery/223598951/SecuraBox-landing-page-ui-design",
-  },
+ 
 
   {
-    id: 26,
+    id: 24,
     title: "Wardrope Website",
     description: "User-centered interface design for wordrope app",
     category: "UI/UX",
@@ -317,7 +295,7 @@ const projects = [
   },
 
     {
-    id: 27,
+    id: 25,
     title: "  Perfume Website",
     description: "User-centered interface design for a Perfume website",
     category: "UI/UX",
@@ -330,7 +308,7 @@ const projects = [
   },
 
    {
-    id: 28,
+    id: 26,
     title: "  Church Flyer Design",
     category: "Graphics",
     image: "/unleash.png",
@@ -342,7 +320,7 @@ const projects = [
 
 
     {
-    id: 29,
+    id: 27,
     title: "  Beauty Design",
     category: "Graphics",
     image: "/liquerose.png",
@@ -354,7 +332,7 @@ const projects = [
 
 
     {
-    id: 30,
+    id: 28,
     title: "  Food Design",
     category: "Graphics",
     image: "/food-design.jpg",
@@ -366,7 +344,7 @@ const projects = [
 
 
    {
-    id: 31,
+    id: 29,
     title: "  Makeup Flyer Design",
     category: "Graphics",
     image: "/makeup-flyer.jpg",
@@ -377,7 +355,7 @@ const projects = [
   },
 
    {
-    id: 32,
+    id: 30,
     title: " Gadget Store Flyer Design",
     category: "Graphics",
     image: "/gadget-store.png",
@@ -388,7 +366,7 @@ const projects = [
   },
 
      {
-    id: 33,
+    id: 31,
     title: "  Hair Flyer Design",
     category: "Graphics",
     image: "/shampoo-flyer.jpg",
@@ -399,7 +377,7 @@ const projects = [
   },
 
    {
-    id: 34,
+    id: 32,
     title: " Food Design",
     category: "Graphics",
     image: "/food-menu.jpg",
@@ -409,7 +387,7 @@ const projects = [
     tags: ["Graphics"],
   },
     {
-    id: 35,
+    id: 33,
     title: "Gadget Flyer Design",
     category: "Graphics",
     image: "/gadget.jpg",
@@ -420,7 +398,7 @@ const projects = [
   },
 
    {
-    id: 36,
+    id: 34,
     title: "Christmas Flyer Design",
     category: "Graphics",
     image: "/christmas-flyer.jpg",
@@ -431,7 +409,7 @@ const projects = [
   },
 
    {
-    id: 37,
+    id: 35,
     title: "Entertainment Flyer Design",
     category: "Graphics",
     image: "/entertainment-flyer.jpg",
@@ -442,7 +420,7 @@ const projects = [
   },
 
   {
-    id: 38,
+    id: 36,
     title: "Church Flyer Design",
     category: "Graphics",
     image: "/church-flyer.png",
@@ -453,7 +431,7 @@ const projects = [
   },
 
   {
-    id: 39,
+    id: 37,
     title: "Beauty-Spa Flyer Design",
     category: "Graphics",
     image: "/beautyspa-flyer.jpg",
@@ -465,7 +443,7 @@ const projects = [
 
 
     {
-    id: 40,
+    id: 38,
     title: "Food Product Flyer Design",
     category: "Graphics",
     image: "/food-product.png",
@@ -476,7 +454,7 @@ const projects = [
   },
 
     {
-    id: 41,
+    id: 39,
     title: "Sunday Flyer Design",
     category: "Graphics",
     image: "/sunday-flyer.jpg",
@@ -487,7 +465,7 @@ const projects = [
   },
 
    {
-    id: 42,
+    id: 40,
     title: "Kizz Nature Flyer Design",
     category: "Graphics",
     image: "/kizz-nature.png",
@@ -498,7 +476,7 @@ const projects = [
   },
 
    {
-    id: 43,
+    id: 41,
     title: "Church Flyer Design",
     category: "Graphics",
     image: "/church-flyer.jpg",
@@ -509,7 +487,7 @@ const projects = [
   },
 
    {
-    id: 44,
+    id: 42,
     title: " Isaac Gadget Flyer Design",
     category: "Graphics",
     image: "/isaac-gadget.png",

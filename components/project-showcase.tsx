@@ -35,7 +35,7 @@ const projects = [
     category: "UI/UX",
     image: "/alyra_img.jpg",
     color: "from-purple-500/20 to-pink-500/20",
-     Url: "https://www.behance.net/gallery/241137531/Alyra-Ai-Assistant",
+     Url: "https://www.behance.net/gallery/243483083/AI-ASSISTANT-MOBILE-APP-DESIGN",
   },
    {
    id: 4,
