@@ -376,8 +376,19 @@ const projects = [
     tags: ["Graphics"],
   },
 
-     {
+   {
     id: 32,
+    title: " Gadget Store Flyer Design",
+    category: "Graphics",
+    image: "/gadget-store.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+     {
+    id: 33,
     title: "  Hair Flyer Design",
     category: "Graphics",
     image: "/shampoo-flyer.jpg",
@@ -388,7 +399,7 @@ const projects = [
   },
 
    {
-    id: 33,
+    id: 34,
     title: " Food Design",
     category: "Graphics",
     image: "/food-menu.jpg",
@@ -398,7 +409,7 @@ const projects = [
     tags: ["Graphics"],
   },
     {
-    id: 34,
+    id: 35,
     title: "Gadget Flyer Design",
     category: "Graphics",
     image: "/gadget.jpg",
@@ -409,7 +420,7 @@ const projects = [
   },
 
    {
-    id: 35,
+    id: 36,
     title: "Christmas Flyer Design",
     category: "Graphics",
     image: "/christmas-flyer.jpg",
@@ -420,7 +431,7 @@ const projects = [
   },
 
    {
-    id: 36,
+    id: 37,
     title: "Entertainment Flyer Design",
     category: "Graphics",
     image: "/entertainment-flyer.jpg",
@@ -431,7 +442,63 @@ const projects = [
   },
 
   {
-    id: 37,
+    id: 38,
+    title: "Church Flyer Design",
+    category: "Graphics",
+    image: "/church-flyer.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+  {
+    id: 39,
+    title: "Beauty-Spa Flyer Design",
+    category: "Graphics",
+    image: "/beautyspa-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+    {
+    id: 40,
+    title: "Food Product Flyer Design",
+    category: "Graphics",
+    image: "/food-product.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+    {
+    id: 41,
+    title: "Sunday Flyer Design",
+    category: "Graphics",
+    image: "/sunday-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+   {
+    id: 42,
+    title: "Kizz Nature Flyer Design",
+    category: "Graphics",
+    image: "/kizz-nature.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+   {
+    id: 43,
     title: "Church Flyer Design",
     category: "Graphics",
     image: "/church-flyer.jpg",
@@ -441,17 +508,16 @@ const projects = [
     tags: ["Graphics"],
   },
 
-  {
-    id: 36,
-    title: "Entertainment Flyer Design",
+   {
+    id: 44,
+    title: " Isaac Gadget Flyer Design",
     category: "Graphics",
-    image: "/entertainment-flyer.jpg",
+    image: "/isaac-gadget.png",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
     year: "2026",
     tags: ["Graphics"],
   },
-
 
   
 ]

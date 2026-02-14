@@ -83,6 +83,81 @@ const projects = [
     color: "from-orange-500/20 to-amber-500/20",
     Url: "https://www.behance.net/gallery/212190065/Music-Dashboard-Music-Streaming-Interface",
   },
+
+
+
+
+   {
+    id: 9,
+    title: "  Church Flyer Design",
+    category: "Graphics",
+    image: "/unleash.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+    {
+    id: 10,
+    title: "  Beauty Design",
+    category: "Graphics",
+    image: "/liquerose.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+
+    {
+    id: 11,
+    title: "  Food Design",
+    category: "Graphics",
+    image: "/food-design.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 12,
+    title: "  Makeup Flyer Design",
+    category: "Graphics",
+    image: "/makeup-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+
+   {
+    id: 13,
+    title: " Gadget Store Flyer Design",
+    category: "Graphics",
+    image: "/gadget-store.png",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+     {
+    id: 14,
+    title: "  Hair Flyer Design",
+    category: "Graphics",
+    image: "/shampoo-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
 ]
 
 const categories = ["All", "UI/UX", "Graphics"]
