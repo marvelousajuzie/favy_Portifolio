@@ -357,13 +357,100 @@ const projects = [
     id: 30,
     title: "  Food Design",
     category: "Graphics",
-    image: "/food_design.jpg",
+    image: "/food-design.jpg",
     color: "from-teal-500/20 to-green-500/20",
     client: "bussiness",
     year: "2026",
     tags: ["Graphics"],
   },
 
+
+   {
+    id: 31,
+    title: "  Makeup Flyer Design",
+    category: "Graphics",
+    image: "/makeup-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+     {
+    id: 32,
+    title: "  Hair Flyer Design",
+    category: "Graphics",
+    image: "/shampoo-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+   {
+    id: 33,
+    title: " Food Design",
+    category: "Graphics",
+    image: "/food-menu.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+    {
+    id: 34,
+    title: "Gadget Flyer Design",
+    category: "Graphics",
+    image: "/gadget.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+   {
+    id: 35,
+    title: "Christmas Flyer Design",
+    category: "Graphics",
+    image: "/christmas-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+   {
+    id: 36,
+    title: "Entertainment Flyer Design",
+    category: "Graphics",
+    image: "/entertainment-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+  {
+    id: 37,
+    title: "Church Flyer Design",
+    category: "Graphics",
+    image: "/church-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+  {
+    id: 36,
+    title: "Entertainment Flyer Design",
+    category: "Graphics",
+    image: "/entertainment-flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
 
 
   
