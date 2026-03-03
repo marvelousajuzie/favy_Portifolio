@@ -307,8 +307,92 @@ const projects = [
     Url: "https://www.behance.net/gallery/229138179/Perfume-Website-UI-Design",
   },
 
+
    {
     id: 26,
+    title: "  Entertainment Flyer Design",
+    category: "Graphics",
+    image: "/kissandswim.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 27,
+    title: " logo Brand Identity Flyer Design",
+    category: "Graphics",
+    image: "/logobrand.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 28,
+    title: "  Valentine Flyer Design",
+    category: "Graphics",
+    image: "/romanceflyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 29,
+    title: "  Food Flyer Design",
+    category: "Graphics",
+    image: "/foodflyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+  {
+    id: 30,
+    title: " Gevinc Flyer Design",
+    category: "Graphics",
+    image: "/gevinc.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+    {
+    id: 31,
+    title: "  Vendi Flyer Design",
+    category: "Graphics",
+    image: "/vendi.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+   {
+    id: 32,
+    title: "Real Estate Flyer Design",
+    category: "Graphics",
+    image: "/realestate_flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+
+   {
+    id: 33,
     title: "  Church Flyer Design",
     category: "Graphics",
     image: "/unleash.png",
@@ -320,7 +404,7 @@ const projects = [
 
 
     {
-    id: 27,
+    id: 34,
     title: "  Beauty Design",
     category: "Graphics",
     image: "/liquerose.png",
@@ -332,7 +416,7 @@ const projects = [
 
 
     {
-    id: 28,
+    id: 35,
     title: "  Food Design",
     category: "Graphics",
     image: "/food-design.jpg",
@@ -344,7 +428,7 @@ const projects = [
 
 
    {
-    id: 29,
+    id: 36,
     title: "  Makeup Flyer Design",
     category: "Graphics",
     image: "/makeup-flyer.jpg",
@@ -355,7 +439,7 @@ const projects = [
   },
 
    {
-    id: 30,
+    id: 37,
     title: " Gadget Store Flyer Design",
     category: "Graphics",
     image: "/gadget-store.png",
@@ -366,7 +450,7 @@ const projects = [
   },
 
      {
-    id: 31,
+    id: 38,
     title: "  Hair Flyer Design",
     category: "Graphics",
     image: "/shampoo-flyer.jpg",
@@ -377,7 +461,7 @@ const projects = [
   },
 
    {
-    id: 32,
+    id: 39,
     title: " Food Design",
     category: "Graphics",
     image: "/food-menu.jpg",
@@ -387,7 +471,7 @@ const projects = [
     tags: ["Graphics"],
   },
     {
-    id: 33,
+    id: 40,
     title: "Gadget Flyer Design",
     category: "Graphics",
     image: "/gadget.jpg",
@@ -398,7 +482,7 @@ const projects = [
   },
 
    {
-    id: 34,
+    id: 41,
     title: "Christmas Flyer Design",
     category: "Graphics",
     image: "/christmas-flyer.jpg",
@@ -409,7 +493,7 @@ const projects = [
   },
 
    {
-    id: 35,
+    id: 42,
     title: "Entertainment Flyer Design",
     category: "Graphics",
     image: "/entertainment-flyer.jpg",
@@ -420,7 +504,7 @@ const projects = [
   },
 
   {
-    id: 36,
+    id: 43,
     title: "Church Flyer Design",
     category: "Graphics",
     image: "/church-flyer.png",
@@ -431,7 +515,7 @@ const projects = [
   },
 
   {
-    id: 37,
+    id: 44,
     title: "Beauty-Spa Flyer Design",
     category: "Graphics",
     image: "/beautyspa-flyer.jpg",
@@ -443,7 +527,7 @@ const projects = [
 
 
     {
-    id: 38,
+    id: 45,
     title: "Food Product Flyer Design",
     category: "Graphics",
     image: "/food-product.png",
@@ -454,7 +538,7 @@ const projects = [
   },
 
     {
-    id: 39,
+    id: 46,
     title: "Sunday Flyer Design",
     category: "Graphics",
     image: "/sunday-flyer.jpg",
@@ -465,7 +549,7 @@ const projects = [
   },
 
    {
-    id: 40,
+    id: 47,
     title: "Kizz Nature Flyer Design",
     category: "Graphics",
     image: "/kizz-nature.png",
@@ -476,7 +560,7 @@ const projects = [
   },
 
    {
-    id: 41,
+    id: 48,
     title: "Church Flyer Design",
     category: "Graphics",
     image: "/church-flyer.jpg",
@@ -487,7 +571,7 @@ const projects = [
   },
 
    {
-    id: 42,
+    id: 49,
     title: " Isaac Gadget Flyer Design",
     category: "Graphics",
     image: "/isaac-gadget.png",

@@ -135,7 +135,7 @@ const projects = [
 
 
   {
-    id: 12,
+    id: 13,
     title: " Gevinc Flyer Design",
     category: "Graphics",
     image: "/gevinc.jpg",
@@ -146,7 +146,7 @@ const projects = [
   },
 
     {
-    id: 12,
+    id: 14,
     title: "  Vendi Flyer Design",
     category: "Graphics",
     image: "/vendi.jpg",
@@ -157,7 +157,7 @@ const projects = [
   },
 
    {
-    id: 13,
+    id: 15,
     title: "Real Estate Flyer Design",
     category: "Graphics",
     image: "/realestate_flyer.jpg",
@@ -169,7 +169,7 @@ const projects = [
 
 
    {
-    id: 13,
+    id: 16,
     title: "  Church Flyer Design",
     category: "Graphics",
     image: "/unleash.png",
@@ -181,7 +181,7 @@ const projects = [
 
 
     {
-    id: 12,
+    id: 17,
     title: "  Beauty Design",
     category: "Graphics",
     image: "/liquerose.png",
@@ -194,7 +194,7 @@ const projects = [
 
 
     {
-    id: 11,
+    id: 18,
     title: "  Food Design",
     category: "Graphics",
     image: "/food-design.jpg",
@@ -206,7 +206,7 @@ const projects = [
 
 
    {
-    id: 12,
+    id: 19,
     title: "  Makeup Flyer Design",
     category: "Graphics",
     image: "/makeup-flyer.jpg",
@@ -219,7 +219,7 @@ const projects = [
 
 
    {
-    id: 13,
+    id: 20,
     title: " Gadget Store Flyer Design",
     category: "Graphics",
     image: "/gadget-store.png",
@@ -230,7 +230,7 @@ const projects = [
   },
 
      {
-    id: 14,
+    id: 21,
     title: "  Hair Flyer Design",
     category: "Graphics",
     image: "/shampoo-flyer.jpg",
