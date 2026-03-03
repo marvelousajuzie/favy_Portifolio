@@ -86,9 +86,90 @@ const projects = [
 
 
 
-
    {
     id: 9,
+    title: "  Entertainment Flyer Design",
+    category: "Graphics",
+    image: "/kissandswim.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 10,
+    title: " logo Brand Identity Flyer Design",
+    category: "Graphics",
+    image: "/logobrand.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 11,
+    title: "  Valentine Flyer Design",
+    category: "Graphics",
+    image: "/romanceflyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 12,
+    title: "  Food Flyer Design",
+    category: "Graphics",
+    image: "/foodflyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+  {
+    id: 12,
+    title: " Gevinc Flyer Design",
+    category: "Graphics",
+    image: "/gevinc.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+    {
+    id: 12,
+    title: "  Vendi Flyer Design",
+    category: "Graphics",
+    image: "/vendi.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+   {
+    id: 13,
+    title: "Real Estate Flyer Design",
+    category: "Graphics",
+    image: "/realestate_flyer.jpg",
+    color: "from-teal-500/20 to-green-500/20",
+    client: "bussiness",
+    year: "2026",
+    tags: ["Graphics"],
+  },
+
+
+   {
+    id: 13,
     title: "  Church Flyer Design",
     category: "Graphics",
     image: "/unleash.png",
@@ -100,7 +181,7 @@ const projects = [
 
 
     {
-    id: 10,
+    id: 12,
     title: "  Beauty Design",
     category: "Graphics",
     image: "/liquerose.png",
@@ -158,6 +239,7 @@ const projects = [
     year: "2026",
     tags: ["Graphics"],
   },
+  
 ]
 
 const categories = ["All", "UI/UX", "Graphics"]
